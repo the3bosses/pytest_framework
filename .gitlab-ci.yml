@@ -4,5 +4,5 @@ stages:
 
 repository_based_script_on_mac:
   stage: run_on_mac
-  script: 
+  script: ./execute_tests.sh
 
