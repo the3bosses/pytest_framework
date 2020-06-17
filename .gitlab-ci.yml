@@ -1,0 +1,24 @@
+stages:
+  - run_on_mac
+  - publish
+
+repository_based_script_on_mac:
+  stage: run_on_mac
+  script: 
+    - ./execute_tests.sh
+    - mkdir .public
+    - cp report.html .public/index.html
+    - cp -r screenshots .public
+    - cp -r assets .public
+  
+  artifacts:
+    paths:
+      - .public
+      
+pages:
+  stage: publish
+  script:
+    - mv .public public
+  artifacts:
+    paths:
+      - public
