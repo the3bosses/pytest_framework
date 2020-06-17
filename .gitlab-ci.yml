@@ -5,6 +5,4 @@ stages:
 repository_based_script_on_mac:
   stage: run_on_mac
   script: 
-    - cd /Users/constant.vdw/PycharmProjects/pytest_tutorial
-    - source venv/bin/activate
-    - pytest
+
