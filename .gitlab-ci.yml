@@ -7,5 +7,5 @@ before_script:
 repository_based_script_on_mac:
   stage: run_on_mac
   script:
-  - bash execute_tests.sh
+  - ls -la
 
