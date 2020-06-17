@@ -8,6 +8,5 @@ before_script:
 repository_based_script_on_mac:
   stage: run_on_mac
   script:
-  - ls
-  - sudo ./execute_tests.sh
+  - bash execute_tests.sh
 
