@@ -4,8 +4,9 @@ stages:
 before running scripts:
   - export PATH=$PATH:~/bin
   - export PATH=$PATH:/user/local/bin
-  
-stage: run_on_mac
-  - bash execute_tests.sh
+ 
+repository_based_script_on_mac: 
+    stage: run_on_mac
+      - bash execute_tests.sh
 
 
