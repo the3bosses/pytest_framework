@@ -1,7 +1,7 @@
 stages:
   - run_on_mac
   
-before running scripts:
+before_running_scripts:
   - export PATH=$PATH:~/bin
   - export PATH=$PATH:/user/local/bin
  
