@@ -1,12 +1,4 @@
 stages:
   - run_on_mac
 
-before_script:
-  - source bash
-  - export PATH=$PATH:/usr/local/bin
-
-repository_based_script_on_mac:
-  stage: run_on_mac
-  script:
-  - ls -la
 
