@@ -1,16 +1,10 @@
 stages:
   - run_on_mac
-  - before_scripts
-  
-before_running_scripts:
-  stage: before_scripts
-  script:
-  - export PATH=$PATH:~/bin
-  - export PATH=$PATH:/user/local/bin
- 
+
 repository_based_script_on_mac: 
   stage: run_on_mac
   script:
-  - bash execute_tests.sh
+  - pwsh
+  - execute_tests.ps1
 
 
