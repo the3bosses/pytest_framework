@@ -1,0 +1,119 @@
+1592391813061	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofilecs0SPu"
+1592391816929	Marionette	INFO	Listening on port 55483
+1592391816999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592391839196	Marionette	INFO	Stopped listening on port 55483
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592392309811	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofilei26sED"
+1592392312924	Marionette	INFO	Listening on port 55784
+1592392312999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592392341198	Marionette	INFO	Stopped listening on port 55784
+1592392401792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofiletvLHDq"
+1592392404890	Marionette	INFO	Listening on port 55956
+1592392404916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592392432963	Marionette	INFO	Stopped listening on port 55956
+1592392897457	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofilezTwpjQ"
+1592392901194	Marionette	INFO	Listening on port 56614
+1592392901234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592392933234	Marionette	INFO	Stopped listening on port 56614
+1592393000377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofilespcALz"
+1592393003980	Marionette	INFO	Listening on port 56811
+1592393004020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592393026158	Marionette	INFO	Stopped listening on port 56811
+1592393090085	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofileGuTP0H"
+1592393093725	Marionette	INFO	Listening on port 56997
+1592393093749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592393124952	Marionette	INFO	Stopped listening on port 56997
+1592393552392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofilezGKzPr"
+1592393556202	Marionette	INFO	Listening on port 57327
+1592393556267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592393588223	Marionette	INFO	Stopped listening on port 57327
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592393797743	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofileL5sbN2"
+1592393801854	Marionette	INFO	Listening on port 57582
+1592393801902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592393833707	Marionette	INFO	Stopped listening on port 57582
+1592393934715	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofilej7BSWE"
+1592393939362	Marionette	INFO	Listening on port 57820
+1592393939387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592393971172	Marionette	INFO	Stopped listening on port 57820
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592396519354	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofile3oRGRy"
+1592396522734	Marionette	INFO	Listening on port 58866
+1592396522808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592396553526	Marionette	INFO	Stopped listening on port 58866
+1592397842724	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofileE78FUg"
+1592397846653	Marionette	INFO	Listening on port 59561
+1592397846715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592397878173	Marionette	INFO	Stopped listening on port 59561
+1592669266170	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofileLQ4eaU"
+1592669270210	Marionette	INFO	Listening on port 52068
+1592669270312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592669302206	Marionette	INFO	Stopped listening on port 52068
+1592669575015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofileT1408W"
+1592669578333	Marionette	INFO	Listening on port 52276
+1592669578412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592669608680	Marionette	INFO	Stopped listening on port 52276
+1592669692944	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofileg7N6YS"
+1592669696587	Marionette	INFO	Listening on port 52443
+1592669696700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592669727755	Marionette	INFO	Stopped listening on port 52443
+1592766860443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofilecX50US"
+1592766864360	Marionette	INFO	Listening on port 55086
+1592766864382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592766911283	Marionette	INFO	Stopped listening on port 55086
+1592825569172	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofileF4ZHXk"
+1592825573018	Marionette	INFO	Listening on port 50643
+1592825573121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1592825620716	Marionette	INFO	Stopped listening on port 50643
+1592826520444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofilefY4ted"
+1592826523947	Marionette	INFO	Listening on port 51032
+1592826524008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592826572293	Marionette	INFO	Stopped listening on port 51032
+1592984302136	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofileOf8sWk"
+1592984306008	Marionette	INFO	Listening on port 50491
+1592984306104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592984353381	Marionette	INFO	Stopped listening on port 50491
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1592984622262	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofileqMZOj3"
+1592984626076	Marionette	INFO	Listening on port 50739
+1592984626100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592984676541	Marionette	INFO	Stopped listening on port 50739
+1592984726669	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pg/pb5pwwwx6hq0pwcfdyq1rv940000gn/T/rust_mozprofileb9xVEz"
+1592984730207	Marionette	INFO	Listening on port 50933
+1592984730233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1592984786505	Marionette	INFO	Stopped listening on port 50933
