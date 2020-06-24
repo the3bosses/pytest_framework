@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f3cf1b6-a926-4739-b9c5-e7330f79c904" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitlab-ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/execute_tests.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/driver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/web_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_data/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_data/data_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_webpage.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dakO0i0OqEs3yLvlgD42rcWfrn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f3cf1b6-a926-4739-b9c5-e7330f79c904" name="Default Changelist" comment="" />
+      <created>1592670555629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592670555629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="100" key="SettingsEditor" timestamp="1592670665983">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="100" key="SettingsEditor/0.23.1440.877/-1080.86.1080.1897@0.23.1440.877" timestamp="1592670665983" />
+  </component>
+</project>
